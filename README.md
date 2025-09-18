@@ -86,7 +86,8 @@ The following metrics are stored in `models/metrics.txt`:
 * Objective: Predict flight ticket prices
 
 ---
-
+Here is my streamlit link: https://sanyagupta31-flight-price-prediction-appapp-wv8bhc.streamlit.app/
+---
 **License:**
 This project is for educational purposes as part of the Analytical Arena Data Science Challenge.
 
